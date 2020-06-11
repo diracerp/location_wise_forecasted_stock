@@ -5,6 +5,7 @@
     "depends": ['web', 'base', 'product', 'stock', 'sale'],
     "author": "DiracERP Solutions.",
     "category": "Stock",
+    'license': 'OPL-1',
     "description": """
     Through this module you can see the location wise foreasted stock. 
     In Multi-Warehouse schanario it will be helpful to check the resultant
